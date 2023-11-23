@@ -1,9 +1,9 @@
 %YAML:1.2
-AzureKinectColorCamera:
+RealSenseColorCamera:
   - name: color_camera
     metafile_path: config.yaml
 
-AzureKinectDepthCamera:
+RealSenseDepthCamera:
   - name: depth_camera
     metafile_path: config.yaml
 
